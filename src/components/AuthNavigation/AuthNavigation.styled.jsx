@@ -2,6 +2,7 @@ import styled from '@emotion/styled';
 import { NavLink } from 'react-router-dom';
 
 export const StyledNav = styled(NavLink)`
+  color: #585858;
   font-size: 18px;
   text-decoration: none;
 

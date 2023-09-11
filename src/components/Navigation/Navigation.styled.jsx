@@ -14,6 +14,7 @@ export const NavContainr = styled.header`
 `;
 
 export const StyledNav = styled(NavLink)`
+  color: #585858;
   text-decoration: none;
 
   & active {
