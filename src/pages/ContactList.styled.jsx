@@ -15,10 +15,6 @@ export const FormTitle = styled.h1`
   font-weight: 700;
 `;
 
-export const Highlight = styled.span`
-  color: orangered;
-`;
-
 export const ContactsControllers = styled.div`
   display: flex;
   justify-content: center;

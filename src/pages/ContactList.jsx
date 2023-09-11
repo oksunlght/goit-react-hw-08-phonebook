@@ -10,7 +10,6 @@ import {
   ContactsTitle,
   FormTitle,
   ContactsControllers,
-  Highlight,
   ListWrapper,
   Container,
   List,
@@ -27,9 +26,7 @@ const ContactList = ({ children }) => {
 
   return (
     <Container>
-      <FormTitle>
-        Ph<Highlight>o</Highlight>nebook
-      </FormTitle>
+      <FormTitle>Phonebook</FormTitle>
 
       <ContactsControllers>
         <FormsWrapper>
